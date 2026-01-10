@@ -4,6 +4,7 @@ export default function HomeScreen() {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>First App Created!</Text>
+      <Text> Echos </Text>
     </View>
   );
 }
